@@ -25,10 +25,10 @@ const Main = () => {
       <Header>
         <Menu mode="horizontal">
           <Menu.Item key="1">
-            <a href="/create-person">Create Person</a>
+            <a href="/create-person">Criar Pessoa</a>
           </Menu.Item>
           <Menu.Item key="2">
-            <a href="/create-task">Create Task</a>
+            <a href="/create-task">Criar Tarefa</a>
           </Menu.Item>
         </Menu>
       </Header>
